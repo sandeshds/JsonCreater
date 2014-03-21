@@ -1,0 +1,1730 @@
+[{
+    "name": "OCP",
+    "active": true,
+    "id": "opunit_0",
+    "shortName": "OCP",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "IVORY COAST",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_0",
+    "shortName": "IVORY COAST",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "DRC Katanga",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_1",
+    "shortName": "DRC Katanga",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "SENEGAL",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_2",
+    "shortName": "SENEGAL",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "MALAWI",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_3",
+    "shortName": "MALAWI",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "PALESTINE",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_4",
+    "shortName": "PALESTINE",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "FRANCE",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_5",
+    "shortName": "FRANCE",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "PHILIPPINES",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_6",
+    "shortName": "PHILIPPINES",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "GRECE",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_7",
+    "shortName": "GRECE",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "COREE DU NORD",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_8",
+    "shortName": "COREE DU NORD",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "CHAD",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_9",
+    "shortName": "CHAD",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "REPUBLIC OF CONGO",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_10",
+    "shortName": "REPUBLIC OF CONGO",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "SRI LANKA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_11",
+    "shortName": "SRI LANKA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "SOUTH SUDAN",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_12",
+    "shortName": "SOUTH SUDAN",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "NORTH SOUDAN",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_13",
+    "shortName": "NORTH SOUDAN",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "RDC Nord Kivu",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_14",
+    "shortName": "RDC Nord Kivu",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "GEORGIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_15",
+    "shortName": "GEORGIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "CHINA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_16",
+    "shortName": "CHINA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "PAKISTAN",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_17",
+    "shortName": "PAKISTAN",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "LYBIE",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_18",
+    "shortName": "LYBIE",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "ETHIOPIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_19",
+    "shortName": "ETHIOPIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "MAURITANIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_20",
+    "shortName": "MAURITANIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "YEMEN",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_21",
+    "shortName": "YEMEN",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "CHECHNYA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_22",
+    "shortName": "CHECHNYA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "PAPOUASIA NG",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_23",
+    "shortName": "PAPOUASIA NG",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "UGANDA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_24",
+    "shortName": "UGANDA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "CAMBODIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_25",
+    "shortName": "CAMBODIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "HAITI",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_26",
+    "shortName": "HAITI",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "NIGERIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_27",
+    "shortName": "NIGERIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "MALI",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_28",
+    "shortName": "MALI",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "MADAGASCAR",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_29",
+    "shortName": "MADAGASCAR",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "AFGHANISTAN",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_30",
+    "shortName": "AFGHANISTAN",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "DRC Nord Kivu",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_31",
+    "shortName": "DRC Nord Kivu",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "NIGER",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_32",
+    "shortName": "NIGER",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "IRAN",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_33",
+    "shortName": "IRAN",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "COLOMBIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_34",
+    "shortName": "COLOMBIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "CAR",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_35",
+    "shortName": "CAR",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "LAOS",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_36",
+    "shortName": "LAOS",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "SOMALIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_37",
+    "shortName": "SOMALIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "IRAQ",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_38",
+    "shortName": "IRAQ",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "KENYA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_39",
+    "shortName": "KENYA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "ARMENIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_40",
+    "shortName": "ARMENIA",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "BURKINA FASO",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_41",
+    "shortName": "BURKINA FASO",
+    "openingDate": "1900-01-01"
+}, {
+    "name": "SYRIA",
+    "active": true,
+    "parent": {
+        "id": "opunit_0"
+    },
+    "id": "country_42",
+    "shortName": "SYRIA",
+    "openingDate": "1900-01-01"
+}, {
+    "parent": {
+        "id": "country_40"
+    },
+    "name": "Erevan Coordination",
+    "active": true,
+    "id": "proj_0",
+    "shortName": "Erevan Coordination",
+    "openingDate": "1997-07-01"
+}, {
+    "parent": {
+        "id": "country_40"
+    },
+    "name": "Erevan TB MDR",
+    "active": true,
+    "id": "proj_1",
+    "shortName": "Erevan TB MDR",
+    "openingDate": "2004-06-01"
+}, {
+    "parent": {
+        "id": "country_40"
+    },
+    "name": "TB - Northern provinces",
+    "active": true,
+    "id": "proj_2",
+    "shortName": "TB - Northern provinces",
+    "openingDate": "2010-02-01"
+}, {
+    "parent": {
+        "id": "country_41"
+    },
+    "name": "Ouagadougou Coordination",
+    "active": true,
+    "id": "proj_3",
+    "shortName": "Ouagadougou Coordination",
+    "openingDate": "2007-04-01"
+}, {
+    "parent": {
+        "id": "country_41"
+    },
+    "name": "Titao Nut",
+    "active": true,
+    "id": "proj_4",
+    "shortName": "Titao Nut",
+    "openingDate": "2007-09-01"
+}, {
+    "parent": {
+        "id": "country_41"
+    },
+    "name": "Réfugiés Oudalan",
+    "active": true,
+    "id": "proj_5",
+    "shortName": "Réfugiés Oudalan",
+    "openingDate": "2012-04-01"
+}, {
+    "parent": {
+        "id": "country_25"
+    },
+    "name": "Phnom Penh Coordination",
+    "active": true,
+    "id": "proj_6",
+    "shortName": "Phnom Penh Coordination",
+    "openingDate": "1996-07-01"
+}, {
+    "parent": {
+        "id": "country_25"
+    },
+    "name": "Kompong Cham TB",
+    "active": true,
+    "id": "proj_7",
+    "shortName": "Kompong Cham TB",
+    "openingDate": "2003-01-01"
+}, {
+    "parent": {
+        "id": "country_25"
+    },
+    "name": "Prison Phnom Penh TB",
+    "active": true,
+    "id": "proj_8",
+    "shortName": "Prison Phnom Penh TB",
+    "openingDate": "2009-09-01"
+}, {
+    "parent": {
+        "id": "country_16"
+    },
+    "name": "Pekin coordination",
+    "active": true,
+    "id": "proj_9",
+    "shortName": "Pekin coordination",
+    "openingDate": "1996-07-01"
+}, {
+    "parent": {
+        "id": "country_16"
+    },
+    "closedDate": "2012-12-31",
+    "name": "Guangzhou STI",
+    "active": true,
+    "id": "proj_10",
+    "shortName": "Guangzhou STI",
+    "openingDate": "2012-06-01"
+}, {
+    "parent": {
+        "id": "country_16"
+    },
+    "name": "All Emergencies China",
+    "active": true,
+    "id": "proj_11",
+    "shortName": "All Emergencies China",
+    "openingDate": "2010-01-01"
+}, {
+    "parent": {
+        "id": "country_34"
+    },
+    "name": "Bogota Coordination",
+    "active": true,
+    "id": "proj_12",
+    "shortName": "Bogota Coordination",
+    "openingDate": "1999-10-01"
+}, {
+    "parent": {
+        "id": "country_34"
+    },
+    "name": "Buenaventure médico-sociales",
+    "active": true,
+    "id": "proj_13",
+    "shortName": "Buenaventure médico-sociales",
+    "openingDate": "2008-08-01"
+}, {
+    "parent": {
+        "id": "country_34"
+    },
+    "closedDate": "2012-10-12",
+    "name": "Tuberculosis Valle del Cauca",
+    "active": true,
+    "id": "proj_14",
+    "shortName": "Tuberculosis Valle del Cauca",
+    "openingDate": "2010-06-01"
+}, {
+    "parent": {
+        "id": "country_10"
+    },
+    "name": "Coordo  Brazza",
+    "active": true,
+    "id": "proj_15",
+    "shortName": "Coordo  Brazza",
+    "openingDate": "2009-12-01"
+}, {
+    "parent": {
+        "id": "country_10"
+    },
+    "closedDate": "2012-05-19",
+    "name": "Urgence Brazza explosion 2012",
+    "active": true,
+    "id": "proj_16",
+    "shortName": "Urgence Brazza explosion 2012",
+    "openingDate": "2012-03-04"
+}, {
+    "parent": {
+        "id": "country_10"
+    },
+    "name": "Intervention Pian Betou",
+    "active": true,
+    "id": "proj_17",
+    "shortName": "Intervention Pian Betou",
+    "openingDate": "2012-07-01"
+}, {
+    "parent": {
+        "id": "country_10"
+    },
+    "name": "Betou",
+    "active": true,
+    "id": "proj_18",
+    "shortName": "Betou",
+    "openingDate": "2009-11-23"
+}, {
+    "parent": {
+        "id": "country_0"
+    },
+    "name": "Coordination Abidjan",
+    "active": true,
+    "id": "proj_19",
+    "shortName": "Coordination Abidjan",
+    "openingDate": "2010-11-01"
+}, {
+    "parent": {
+        "id": "country_0"
+    },
+    "closedDate": "2012-09-15",
+    "name": "Duekue",
+    "active": true,
+    "id": "proj_20",
+    "shortName": "Duekue",
+    "openingDate": "2011-01-02"
+}, {
+    "parent": {
+        "id": "country_0"
+    },
+    "name": "Guiglo",
+    "active": true,
+    "id": "proj_21",
+    "shortName": "Guiglo",
+    "openingDate": "2011-04-01"
+}, {
+    "parent": {
+        "id": "country_19"
+    },
+    "name": "Addis Abeba Coordination",
+    "active": true,
+    "id": "proj_22",
+    "shortName": "Addis Abeba Coordination",
+    "openingDate": "1995-07-01"
+}, {
+    "parent": {
+        "id": "country_19"
+    },
+    "closedDate": "2012-01-31",
+    "name": "Benicshangul",
+    "active": true,
+    "id": "proj_23",
+    "shortName": "Benicshangul",
+    "openingDate": "2009-11-01"
+}, {
+    "parent": {
+        "id": "country_19"
+    },
+    "closedDate": "2011-11-30",
+    "name": "Bale nutritional",
+    "active": true,
+    "id": "proj_24",
+    "shortName": "Bale nutritional",
+    "openingDate": "2011-08-01"
+}, {
+    "parent": {
+        "id": "country_19"
+    },
+    "name": "Gambella",
+    "active": true,
+    "id": "proj_25",
+    "shortName": "Gambella",
+    "openingDate": "2010-07-01"
+}, {
+    "parent": {
+        "id": "country_19"
+    },
+    "name": "Bambasi",
+    "active": true,
+    "id": "proj_26",
+    "shortName": "Bambasi",
+    "openingDate": "2012-06-01"
+}, {
+    "parent": {
+        "id": "country_5"
+    },
+    "name": "MF Paris Coordination",
+    "active": true,
+    "id": "proj_27",
+    "shortName": "MF Paris Coordination",
+    "openingDate": "1995-07-01"
+}, {
+    "parent": {
+        "id": "country_5"
+    },
+    "name": "MF Mission psy",
+    "active": true,
+    "id": "proj_28",
+    "shortName": "MF Mission psy",
+    "openingDate": "2006-09-01"
+}, {
+    "parent": {
+        "id": "country_15"
+    },
+    "name": "Tbilissi Coordination",
+    "active": true,
+    "id": "proj_29",
+    "shortName": "Tbilissi Coordination",
+    "openingDate": "1995-07-01"
+}, {
+    "parent": {
+        "id": "country_15"
+    },
+    "name": "Abkhasie TB",
+    "active": true,
+    "id": "proj_30",
+    "shortName": "Abkhasie TB",
+    "openingDate": "1995-07-01"
+}, {
+    "parent": {
+        "id": "country_15"
+    },
+    "name": "Abkhasie HAP",
+    "active": true,
+    "id": "proj_31",
+    "shortName": "Abkhasie HAP",
+    "openingDate": "1995-07-01"
+}, {
+    "parent": {
+        "id": "country_15"
+    },
+    "name": "Visceral Leishmaniosis (KA)",
+    "active": true,
+    "id": "proj_32",
+    "shortName": "Visceral Leishmaniosis (KA)",
+    "openingDate": "2010-07-01"
+}, {
+    "parent": {
+        "id": "country_7"
+    },
+    "closedDate": "2012-10-15",
+    "name": "Appui Palu Lacinia 2012",
+    "active": true,
+    "id": "proj_33",
+    "shortName": "Appui Palu Lacinia 2012",
+    "openingDate": "2012-05-01"
+}, {
+    "parent": {
+        "id": "country_26"
+    },
+    "name": "Port aux princes Coordination",
+    "active": true,
+    "id": "proj_34",
+    "shortName": "Port aux princes Coordination",
+    "openingDate": "2004-09-01"
+}, {
+    "parent": {
+        "id": "country_26"
+    },
+    "name": "Drouillard hop medico chir",
+    "active": true,
+    "id": "proj_35",
+    "shortName": "Drouillard hop medico chir",
+    "openingDate": "2010-01-12"
+}, {
+    "parent": {
+        "id": "country_26"
+    },
+    "closedDate": "2012-11-30",
+    "name": "Drouillard Cholera",
+    "active": true,
+    "id": "proj_36",
+    "shortName": "Drouillard Cholera",
+    "openingDate": "2010-10-01"
+}, {
+    "parent": {
+        "id": "country_26"
+    },
+    "closedDate": "2012-11-25",
+    "name": "Cholera",
+    "active": true,
+    "id": "proj_37",
+    "shortName": "Cholera",
+    "openingDate": "2011-12-31"
+}, {
+    "parent": {
+        "id": "country_26"
+    },
+    "name": "FOSSAP / Projet pilote Hôpital",
+    "active": true,
+    "id": "proj_38",
+    "shortName": "FOSSAP / Projet pilote Hôpital",
+    "openingDate": "2010-06-01"
+}, {
+    "parent": {
+        "id": "country_33"
+    },
+    "name": "Teheran Coordination",
+    "active": true,
+    "id": "proj_39",
+    "shortName": "Teheran Coordination",
+    "openingDate": "1996-07-01"
+}, {
+    "parent": {
+        "id": "country_33"
+    },
+    "name": "South Teheran",
+    "active": true,
+    "id": "proj_40",
+    "shortName": "South Teheran",
+    "openingDate": "2011-10-01"
+}, {
+    "parent": {
+        "id": "country_38"
+    },
+    "name": "Amman coordination",
+    "active": true,
+    "id": "proj_41",
+    "shortName": "Amman coordination",
+    "openingDate": "2006-07-01"
+}, {
+    "parent": {
+        "id": "country_38"
+    },
+    "name": "Amman Irak Chirurgie",
+    "active": true,
+    "id": "proj_42",
+    "shortName": "Amman Irak Chirurgie",
+    "openingDate": "2006-04-01"
+}, {
+    "parent": {
+        "id": "country_38"
+    },
+    "name": "Syria trauma unit",
+    "active": true,
+    "id": "proj_43",
+    "shortName": "Syria trauma unit",
+    "openingDate": "2012-05-01"
+}, {
+    "parent": {
+        "id": "country_38"
+    },
+    "name": "Bagdad Network",
+    "active": true,
+    "id": "proj_44",
+    "shortName": "Bagdad Network",
+    "openingDate": "2010-10-31"
+}, {
+    "parent": {
+        "id": "country_38"
+    },
+    "name": "Hanan hospital investment",
+    "active": true,
+    "id": "proj_45",
+    "shortName": "Hanan hospital investment",
+    "openingDate": "2011-10-01"
+}, {
+    "parent": {
+        "id": "country_39"
+    },
+    "name": "Nairobi Coordination",
+    "active": true,
+    "id": "proj_46",
+    "shortName": "Nairobi Coordination",
+    "openingDate": "1990-01-01"
+}, {
+    "parent": {
+        "id": "country_39"
+    },
+    "name": "Homa Bay",
+    "active": true,
+    "id": "proj_47",
+    "shortName": "Homa Bay",
+    "openingDate": "1996-07-01"
+}, {
+    "parent": {
+        "id": "country_39"
+    },
+    "name": "EPI Homa Bay Lab study",
+    "active": true,
+    "id": "proj_48",
+    "shortName": "EPI Homa Bay Lab study",
+    "openingDate": "2009-04-01"
+}, {
+    "parent": {
+        "id": "country_39"
+    },
+    "name": "Mathare dispensaires",
+    "active": true,
+    "id": "proj_49",
+    "shortName": "Mathare dispensaires",
+    "openingDate": "1997-04-01"
+}, {
+    "parent": {
+        "id": "country_36"
+    },
+    "name": "Ventiane Coordination",
+    "active": true,
+    "id": "proj_50",
+    "shortName": "Ventiane Coordination",
+    "openingDate": "1998-01-01"
+}, {
+    "parent": {
+        "id": "country_36"
+    },
+    "name": "Houapphan M\u0026C HC",
+    "active": true,
+    "id": "proj_51",
+    "shortName": "Houapphan M\u0026C HC",
+    "openingDate": "2011-01-02"
+}, {
+    "parent": {
+        "id": "country_29"
+    },
+    "name": "Coordination Tananarive",
+    "active": true,
+    "id": "proj_52",
+    "shortName": "Coordination Tananarive",
+    "openingDate": "2010-04-01"
+}, {
+    "parent": {
+        "id": "country_29"
+    },
+    "name": "Bekily femmes et enfants",
+    "active": true,
+    "id": "proj_53",
+    "shortName": "Bekily femmes et enfants",
+    "openingDate": "2010-10-01"
+}, {
+    "parent": {
+        "id": "country_3"
+    },
+    "name": "Lilongwe Coordination",
+    "active": true,
+    "id": "proj_54",
+    "shortName": "Lilongwe Coordination",
+    "openingDate": "1997-01-01"
+}, {
+    "parent": {
+        "id": "country_3"
+    },
+    "name": "Chiradzulu HIV",
+    "active": true,
+    "id": "proj_55",
+    "shortName": "Chiradzulu HIV",
+    "openingDate": "1997-01-01"
+}, {
+    "parent": {
+        "id": "country_3"
+    },
+    "name": "HIV Decentralization Chiradzulu",
+    "active": true,
+    "id": "proj_56",
+    "shortName": "HIV Decentralization Chiradzulu",
+    "openingDate": "2008-01-01"
+}, {
+    "parent": {
+        "id": "country_28"
+    },
+    "name": "COORDINATION BAMAKO",
+    "active": true,
+    "id": "proj_57",
+    "shortName": "COORDINATION BAMAKO",
+    "openingDate": "2008-08-29"
+}, {
+    "parent": {
+        "id": "country_28"
+    },
+    "name": "Medico-nut Koutiala",
+    "active": true,
+    "id": "proj_58",
+    "shortName": "Medico-nut Koutiala",
+    "openingDate": "2009-01-01"
+}, {
+    "parent": {
+        "id": "country_28"
+    },
+    "name": "KonséguelaRech ope Nutrition intégrée",
+    "active": true,
+    "id": "proj_59",
+    "shortName": "KonséguelaRech ope Nutrition intégrée",
+    "openingDate": "2010-02-14"
+}, {
+    "parent": {
+        "id": "country_28"
+    },
+    "name": "S M C Koutiala",
+    "active": true,
+    "id": "proj_60",
+    "shortName": "S M C Koutiala",
+    "openingDate": "2011-09-01"
+}, {
+    "parent": {
+        "id": "country_28"
+    },
+    "name": "Nutritional \u0026 Infant mortality survey",
+    "active": true,
+    "id": "proj_61",
+    "shortName": "Nutritional \u0026 Infant mortality survey",
+    "openingDate": "2010-04-14"
+}, {
+    "parent": {
+        "id": "country_28"
+    },
+    "name": "Intervention nord Mali",
+    "active": true,
+    "id": "proj_62",
+    "shortName": "Intervention nord Mali",
+    "openingDate": "2012-03-01"
+}, {
+    "parent": {
+        "id": "country_20"
+    },
+    "closedDate": "2012-10-15",
+    "name": "Coordination",
+    "active": true,
+    "id": "proj_63",
+    "shortName": "Coordination",
+    "openingDate": "2012-04-09"
+}, {
+    "parent": {
+        "id": "country_20"
+    },
+    "closedDate": "2012-09-30",
+    "name": "Nutrition Brakna/Boghe",
+    "active": true,
+    "id": "proj_64",
+    "shortName": "Nutrition Brakna/Boghe",
+    "openingDate": "2012-03-01"
+}, {
+    "parent": {
+        "id": "country_20"
+    },
+    "closedDate": "2012-09-30",
+    "name": "Refugiés Maliens Aghor",
+    "active": true,
+    "id": "proj_65",
+    "shortName": "Refugiés Maliens Aghor",
+    "openingDate": "2012-07-01"
+}, {
+    "parent": {
+        "id": "country_32"
+    },
+    "name": "Niamey Coordination",
+    "active": true,
+    "id": "proj_66",
+    "shortName": "Niamey Coordination",
+    "openingDate": "2010-06-14"
+}, {
+    "parent": {
+        "id": "country_32"
+    },
+    "name": "Projet commun Forsani",
+    "active": true,
+    "id": "proj_67",
+    "shortName": "Projet commun Forsani",
+    "openingDate": "2009-01-01"
+}, {
+    "parent": {
+        "id": "country_32"
+    },
+    "name": "Abala",
+    "active": true,
+    "id": "proj_68",
+    "shortName": "Abala",
+    "openingDate": "2002-05-01"
+}, {
+    "parent": {
+        "id": "country_27"
+    },
+    "name": "Abuja Coordination",
+    "active": true,
+    "id": "proj_69",
+    "shortName": "Abuja Coordination",
+    "openingDate": "2004-11-01"
+}, {
+    "parent": {
+        "id": "country_27"
+    },
+    "name": "Jigawa (VVS)",
+    "active": true,
+    "id": "proj_70",
+    "shortName": "Jigawa (VVS)",
+    "openingDate": "2007-11-01"
+}, {
+    "parent": {
+        "id": "country_27"
+    },
+    "closedDate": "2012-03-31",
+    "name": "Kazaure Nut",
+    "active": true,
+    "id": "proj_71",
+    "shortName": "Kazaure Nut",
+    "openingDate": "2009-12-31"
+}, {
+    "parent": {
+        "id": "country_27"
+    },
+    "name": "Emergency team",
+    "active": true,
+    "id": "proj_72",
+    "shortName": "Emergency team",
+    "openingDate": "2011-11-01"
+}, {
+    "parent": {
+        "id": "country_27"
+    },
+    "name": "Flooding response",
+    "active": true,
+    "id": "proj_73",
+    "shortName": "Flooding response",
+    "openingDate": "2012-09-01"
+}, {
+    "parent": {
+        "id": "country_27"
+    },
+    "name": "Port Harcourt Chirurgie",
+    "active": true,
+    "id": "proj_74",
+    "shortName": "Port Harcourt Chirurgie",
+    "openingDate": "2005-09-01"
+}, {
+    "parent": {
+        "id": "country_24"
+    },
+    "name": "Kampala Coordination",
+    "active": true,
+    "id": "proj_75",
+    "shortName": "Kampala Coordination",
+    "openingDate": "1986-07-01"
+}, {
+    "parent": {
+        "id": "country_24"
+    },
+    "name": "Arua VIH",
+    "active": true,
+    "id": "proj_76",
+    "shortName": "Arua VIH",
+    "openingDate": "1999-02-01"
+}, {
+    "parent": {
+        "id": "country_17"
+    },
+    "name": "Islamabad Coordination",
+    "active": true,
+    "id": "proj_77",
+    "shortName": "Islamabad Coordination",
+    "openingDate": "2008-06-01"
+}, {
+    "parent": {
+        "id": "country_17"
+    },
+    "name": "Pakistan - Kurram Sadda -Alizai",
+    "active": true,
+    "id": "proj_78",
+    "shortName": "Pakistan - Kurram Sadda -Alizai",
+    "openingDate": "2009-05-01"
+}, {
+    "parent": {
+        "id": "country_17"
+    },
+    "name": "Hangu",
+    "active": true,
+    "id": "proj_79",
+    "shortName": "Hangu",
+    "openingDate": "2010-03-01"
+}, {
+    "parent": {
+        "id": "country_17"
+    },
+    "name": "Peshawar Gynéco Obstétrique",
+    "active": true,
+    "id": "proj_80",
+    "shortName": "Peshawar Gynéco Obstétrique",
+    "openingDate": "2011-04-01"
+}, {
+    "parent": {
+        "id": "country_4"
+    },
+    "name": "Jerusalem Coordination",
+    "active": true,
+    "id": "proj_81",
+    "shortName": "Jerusalem Coordination",
+    "openingDate": "1998-07-01"
+}, {
+    "parent": {
+        "id": "country_4"
+    },
+    "name": "Naplouse",
+    "active": true,
+    "id": "proj_82",
+    "shortName": "Naplouse",
+    "openingDate": "2004-11-01"
+}, {
+    "parent": {
+        "id": "country_4"
+    },
+    "name": "GAZA \"Tout le projet\"",
+    "active": true,
+    "id": "proj_83",
+    "shortName": "GAZA \"Tout le projet\"",
+    "openingDate": "2000-09-01"
+}, {
+    "parent": {
+        "id": "country_4"
+    },
+    "name": "Gaza post operative care (REHAB)",
+    "active": true,
+    "id": "proj_84",
+    "shortName": "Gaza post operative care (REHAB)",
+    "openingDate": "2007-06-01"
+}, {
+    "parent": {
+        "id": "country_23"
+    },
+    "name": "Coordination Port Moresby",
+    "active": true,
+    "id": "proj_85",
+    "shortName": "Coordination Port Moresby",
+    "openingDate": "2011-02-01"
+}, {
+    "parent": {
+        "id": "country_23"
+    },
+    "name": "Buin Prim\u0026seco HC",
+    "active": true,
+    "id": "proj_86",
+    "shortName": "Buin Prim\u0026seco HC",
+    "openingDate": "2011-02-01"
+}, {
+    "parent": {
+        "id": "country_6"
+    },
+    "closedDate": "2011-03-01",
+    "name": "Legaspy Coordination",
+    "active": true,
+    "id": "proj_87",
+    "shortName": "Legaspy Coordination",
+    "openingDate": "1998-07-01"
+}, {
+    "parent": {
+        "id": "country_6"
+    },
+    "closedDate": "2012-09-30",
+    "name": "Manilla Flood 2011",
+    "active": true,
+    "id": "proj_88",
+    "shortName": "Manilla Flood 2011",
+    "openingDate": "2011-09-20"
+}, {
+    "parent": {
+        "id": "country_6"
+    },
+    "closedDate": "2012-02-04",
+    "name": "Mindanao Floods",
+    "active": true,
+    "id": "proj_89",
+    "shortName": "Mindanao Floods",
+    "openingDate": "2012-01-01"
+}, {
+    "parent": {
+        "id": "country_6"
+    },
+    "name": "Bopha typhon",
+    "active": true,
+    "id": "proj_90",
+    "shortName": "Bopha typhon",
+    "openingDate": "2012-12-01"
+}, {
+    "parent": {
+        "id": "country_31"
+    },
+    "name": "Goma Coordination",
+    "active": true,
+    "id": "proj_91",
+    "shortName": "Goma Coordination",
+    "openingDate": "2005-11-01"
+}, {
+    "parent": {
+        "id": "country_31"
+    },
+    "name": "Rutshuru",
+    "active": true,
+    "id": "proj_92",
+    "shortName": "Rutshuru",
+    "openingDate": "2005-05-01"
+}, {
+    "parent": {
+        "id": "country_31"
+    },
+    "closedDate": "2012-05-15",
+    "name": "Nyanzale /Kabizo/Kibirzi",
+    "active": true,
+    "id": "proj_93",
+    "shortName": "Nyanzale /Kabizo/Kibirzi",
+    "openingDate": "2006-10-01"
+}, {
+    "parent": {
+        "id": "country_14"
+    },
+    "name": "Pharmacie centrale Goma",
+    "active": true,
+    "id": "proj_94",
+    "shortName": "Pharmacie centrale Goma",
+    "openingDate": "2011-01-02"
+}, {
+    "parent": {
+        "id": "country_31"
+    },
+    "name": "Toutes urgences",
+    "active": true,
+    "id": "proj_95",
+    "shortName": "Toutes urgences",
+    "openingDate": "2009-01-01"
+}, {
+    "parent": {
+        "id": "country_31"
+    },
+    "name": "Kayna Pediatrie Urgence",
+    "active": true,
+    "id": "proj_96",
+    "shortName": "Kayna Pediatrie Urgence",
+    "openingDate": "2012-08-01"
+}, {
+    "parent": {
+        "id": "country_31"
+    },
+    "name": "Déplacés Kanyaruchina",
+    "active": true,
+    "id": "proj_97",
+    "shortName": "Déplacés Kanyaruchina",
+    "openingDate": "2012-10-15"
+}, {
+    "parent": {
+        "id": "country_1"
+    },
+    "name": "Lubumbashi Coordination",
+    "active": true,
+    "id": "proj_98",
+    "shortName": "Lubumbashi Coordination",
+    "openingDate": "2010-01-02"
+}, {
+    "parent": {
+        "id": "country_1"
+    },
+    "name": "Déplacés Mitwaba",
+    "active": true,
+    "id": "proj_99",
+    "shortName": "Déplacés Mitwaba",
+    "openingDate": "2012-05-01"
+}, {
+    "parent": {
+        "id": "country_1"
+    },
+    "name": "Kabalo Palu",
+    "active": true,
+    "id": "proj_100",
+    "shortName": "Kabalo Palu",
+    "openingDate": "2012-10-15"
+}, {
+    "parent": {
+        "id": "country_1"
+    },
+    "name": "Kalémie déplacés",
+    "active": true,
+    "id": "proj_101",
+    "shortName": "Kalémie déplacés",
+    "openingDate": "2011-09-01"
+}, {
+    "parent": {
+        "id": "country_1"
+    },
+    "name": "Kalémie CHOLERA",
+    "active": true,
+    "id": "proj_102",
+    "shortName": "Kalémie CHOLERA",
+    "openingDate": "2010-05-01"
+}, {
+    "parent": {
+        "id": "country_1"
+    },
+    "name": "Lubumbashi Choléra",
+    "active": true,
+    "id": "proj_103",
+    "shortName": "Lubumbashi Choléra",
+    "openingDate": "2012-10-15"
+}, {
+    "parent": {
+        "id": "country_1"
+    },
+    "name": "PUKA",
+    "active": true,
+    "id": "proj_104",
+    "shortName": "PUKA",
+    "openingDate": "2010-05-01"
+}, {
+    "parent": {
+        "id": "country_35"
+    },
+    "name": "Bangui Coordination",
+    "active": true,
+    "id": "proj_105",
+    "shortName": "Bangui Coordination",
+    "openingDate": "2006-03-01"
+}, {
+    "parent": {
+        "id": "country_35"
+    },
+    "name": "Hopital Paoua",
+    "active": true,
+    "id": "proj_106",
+    "shortName": "Hopital Paoua",
+    "openingDate": "2006-03-01"
+}, {
+    "parent": {
+        "id": "country_35"
+    },
+    "name": "VIH-Sida Carnot",
+    "active": true,
+    "id": "proj_107",
+    "shortName": "VIH-Sida Carnot",
+    "openingDate": "2009-08-01"
+}, {
+    "parent": {
+        "id": "country_22"
+    },
+    "name": "Moscou Coordination",
+    "active": true,
+    "id": "proj_108",
+    "shortName": "Moscou Coordination",
+    "openingDate": "1998-07-01"
+}, {
+    "parent": {
+        "id": "country_22"
+    },
+    "name": "Grozny Pédiatrie Gynéco-Obs",
+    "active": true,
+    "id": "proj_109",
+    "shortName": "Grozny Pédiatrie Gynéco-Obs",
+    "openingDate": "2000-07-01"
+}, {
+    "parent": {
+        "id": "country_22"
+    },
+    "name": "Grozny cardiologie",
+    "active": true,
+    "id": "proj_110",
+    "shortName": "Grozny cardiologie",
+    "openingDate": "2010-06-01"
+}, {
+    "parent": {
+        "id": "country_2"
+    },
+    "name": "Dakar coordination",
+    "active": true,
+    "id": "proj_111",
+    "shortName": "Dakar coordination",
+    "openingDate": "2012-04-01"
+}, {
+    "parent": {
+        "id": "country_2"
+    },
+    "closedDate": "2012-08-31",
+    "name": "Djourbel",
+    "active": true,
+    "id": "proj_112",
+    "shortName": "Djourbel",
+    "openingDate": "2012-04-17"
+}, {
+    "parent": {
+        "id": "country_37"
+    },
+    "name": "Coordo base arrière Nairobie",
+    "active": true,
+    "id": "proj_113",
+    "shortName": "Coordo base arrière Nairobie",
+    "openingDate": "2007-01-01"
+}, {
+    "parent": {
+        "id": "country_37"
+    },
+    "name": "2011 Somalia IDPs",
+    "active": true,
+    "id": "proj_114",
+    "shortName": "2011 Somalia IDPs",
+    "openingDate": "2007-01-01"
+}, {
+    "parent": {
+        "id": "country_37"
+    },
+    "name": "Mogadishu Coordination",
+    "active": true,
+    "id": "proj_115",
+    "shortName": "Mogadishu Coordination",
+    "openingDate": "2007-01-01"
+}, {
+    "parent": {
+        "id": "country_12"
+    },
+    "name": "Juba Coordination",
+    "active": true,
+    "id": "proj_116",
+    "shortName": "Juba Coordination",
+    "openingDate": "2005-11-01"
+}, {
+    "parent": {
+        "id": "country_12"
+    },
+    "name": "Aweil",
+    "active": true,
+    "id": "proj_117",
+    "shortName": "Aweil",
+    "openingDate": "2008-01-01"
+}, {
+    "parent": {
+        "id": "country_12"
+    },
+    "name": "Emergency coordo",
+    "active": true,
+    "id": "proj_118",
+    "shortName": "Emergency coordo",
+    "openingDate": "2011-11-01"
+}, {
+    "parent": {
+        "id": "country_12"
+    },
+    "name": "MSF PLANE",
+    "active": true,
+    "id": "proj_119",
+    "shortName": "MSF PLANE",
+    "openingDate": "2012-03-01"
+}, {
+    "parent": {
+        "id": "country_12"
+    },
+    "name": "Yida refugees camp",
+    "active": true,
+    "id": "proj_120",
+    "shortName": "Yida refugees camp",
+    "openingDate": "2011-11-01"
+}, {
+    "parent": {
+        "id": "country_12"
+    },
+    "closedDate": "2012-05-31",
+    "name": "Upper Nile, Renk",
+    "active": true,
+    "id": "proj_121",
+    "shortName": "Upper Nile, Renk",
+    "openingDate": "2011-11-01"
+}, {
+    "parent": {
+        "id": "country_13"
+    },
+    "name": "NUBA/Farandalla",
+    "active": true,
+    "id": "proj_122",
+    "shortName": "NUBA/Farandalla",
+    "openingDate": "2011-12-01"
+}, {
+    "parent": {
+        "id": "country_11"
+    },
+    "closedDate": "2012-11-15",
+    "name": "Colombo Coordination",
+    "active": true,
+    "id": "proj_123",
+    "shortName": "Colombo Coordination",
+    "openingDate": "1987-07-01"
+}, {
+    "parent": {
+        "id": "country_11"
+    },
+    "closedDate": "2012-01-31",
+    "name": "Mullaitivu",
+    "active": true,
+    "id": "proj_124",
+    "shortName": "Mullaitivu",
+    "openingDate": "2010-05-01"
+}, {
+    "parent": {
+        "id": "country_42"
+    },
+    "name": "Syria coordination",
+    "active": true,
+    "id": "proj_125",
+    "shortName": "Syria coordination",
+    "openingDate": "2012-01-15"
+}, {
+    "parent": {
+        "id": "country_42"
+    },
+    "name": "Trauma Unit/ATIMAH",
+    "active": true,
+    "id": "proj_126",
+    "shortName": "Trauma Unit/ATIMAH",
+    "openingDate": "2012-05-15"
+}, {
+    "parent": {
+        "id": "country_42"
+    },
+    "name": "Emergency Hospital/KAFR GHAN",
+    "active": true,
+    "id": "proj_127",
+    "shortName": "Emergency Hospital/KAFR GHAN",
+    "openingDate": "2012-07-01"
+}, {
+    "parent": {
+        "id": "country_42"
+    },
+    "name": "Medical Support and SupplyDONATION",
+    "active": true,
+    "id": "proj_128",
+    "shortName": "Medical Support and SupplyDONATION",
+    "openingDate": "2012-12-01"
+}, {
+    "parent": {
+        "id": "country_9"
+    },
+    "name": "Ndjamena Coordination",
+    "active": true,
+    "id": "proj_129",
+    "shortName": "Ndjamena Coordination",
+    "openingDate": "2003-04-01"
+}, {
+    "parent": {
+        "id": "country_9"
+    },
+    "name": "Moissala Palu",
+    "active": true,
+    "id": "proj_130",
+    "shortName": "Moissala Palu",
+    "openingDate": "2010-01-02"
+}, {
+    "parent": {
+        "id": "country_9"
+    },
+    "name": "Réponses aux Urgences",
+    "active": true,
+    "id": "proj_131",
+    "shortName": "Réponses aux Urgences",
+    "openingDate": "2010-11-01"
+}, {
+    "parent": {
+        "id": "country_9"
+    },
+    "closedDate": "2012-09-30",
+    "name": "Intervention Nut Yao",
+    "active": true,
+    "id": "proj_132",
+    "shortName": "Intervention Nut Yao",
+    "openingDate": "2010-05-01"
+}, {
+    "parent": {
+        "id": "country_9"
+    },
+    "name": "Innondations Maro",
+    "active": true,
+    "id": "proj_133",
+    "shortName": "Innondations Maro",
+    "openingDate": "2012-09-01"
+}, {
+    "parent": {
+        "id": "country_9"
+    },
+    "name": "Vacci Méningite Préventive",
+    "active": true,
+    "id": "proj_134",
+    "shortName": "Vacci Méningite Préventive",
+    "openingDate": "2011-07-01"
+}, {
+    "parent": {
+        "id": "country_21"
+    },
+    "name": "Sanaa Coordination",
+    "active": true,
+    "id": "proj_135",
+    "shortName": "Sanaa Coordination",
+    "openingDate": "1997-07-01"
+}, {
+    "parent": {
+        "id": "country_21"
+    },
+    "name": "IDP\u0027s health Care Amran District",
+    "active": true,
+    "id": "proj_136",
+    "shortName": "IDP\u0027s health Care Amran District",
+    "openingDate": "2008-04-01"
+}, {
+    "parent": {
+        "id": "country_21"
+    },
+    "name": "Al Dhale",
+    "active": true,
+    "id": "proj_137",
+    "shortName": "Al Dhale",
+    "openingDate": "2011-09-01"
+}, {
+    "parent": {
+        "id": "country_21"
+    },
+    "name": "Aden Ta\u0027Izz Sud Yemen",
+    "active": true,
+    "id": "proj_138",
+    "shortName": "Aden Ta\u0027Izz Sud Yemen",
+    "openingDate": "2011-03-01"
+}, {
+    "parent": {
+        "id": "country_18"
+    },
+    "name": "MISSIONS EXPLOS",
+    "active": true,
+    "id": "proj_139",
+    "shortName": "MISSIONS EXPLOS",
+    "openingDate": "1900-01-01"
+}, {
+    "parent": {
+        "id": "country_30"
+    },
+    "name": "MISSIONS EXPLOS",
+    "active": true,
+    "id": "proj_140",
+    "shortName": "MISSIONS EXPLOS",
+    "openingDate": "1900-01-01"
+}, {
+    "parent": {
+        "id": "country_8"
+    },
+    "name": "MISSIONS EXPLOS",
+    "active": true,
+    "id": "proj_141",
+    "shortName": "MISSIONS EXPLOS",
+    "openingDate": "1900-01-01"
+}, {
+    "parent": {
+        "id": "country_6"
+    },
+    "name": "MISSIONS EXPLOS",
+    "active": true,
+    "id": "proj_142",
+    "shortName": "MISSIONS EXPLOS",
+    "openingDate": "1900-01-01"
+}, {
+    "parent": {
+        "id": "country_24"
+    },
+    "name": "MISSIONS EXPLOS",
+    "active": true,
+    "id": "proj_143",
+    "shortName": "MISSIONS EXPLOS",
+    "openingDate": "1900-01-01"
+}, {
+    "parent": {
+        "id": "country_42"
+    },
+    "name": "MISSIONS EXPLOS",
+    "active": true,
+    "id": "proj_144",
+    "shortName": "MISSIONS EXPLOS",
+    "openingDate": "1900-01-01"
+}, {
+    "parent": {
+        "id": "country_38"
+    },
+    "name": "MISSIONS EXPLOS",
+    "active": true,
+    "id": "proj_145",
+    "shortName": "MISSIONS EXPLOS",
+    "openingDate": "1900-01-01"
+}]

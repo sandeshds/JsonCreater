@@ -1,0 +1,8 @@
+{
+	name = opm, active=true, id=opm, shortName=opm, openingDate=1900-01-01}
+{parent={id=opm}, name=sa1, active=true, id=sa1, shortName=sa1, openingDate=1900-01-01}
+{parent={id=opm}, name=sa2, active=true, id=sa2, shortName=sa2, openingDate=1900-01-01}
+{parent={id=opm}, name=sa, active=true, id=sa, shortName=sa, openingDate=1900-01-01}
+{parent={id=sa1}, name=a1, active=true, id=a1, shortName=a1, openingDate=1900-01-01}
+{parent={id=sa2}, name=a2, active=true, id=a2, shortName=a2, openingDate=1900-01-01}
+{parent={id=sa}, name=a, active=true, id=a, shortName=a, openingDate=1900-01-01}
